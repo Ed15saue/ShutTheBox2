@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ShutTheBox
+comment1.params=
+comment1.target=ShutTheBox()
+comment2.params=l
+comment2.target=void\ List(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ EndGame()
+comment4.params=
+comment4.target=void\ WinGame()
+comment5.params=
+comment5.target=boolean\ Run()
+comment6.params=
+comment6.target=void\ RunSimulation()
+comment6.text=\r\n\ if\ a\ number\ is\ rolled\ and\ there\ is\ no\ way\ to\ get\ that\ number\ then\ end\ the\ game\r\n\ can\ put\ this\ method\ in\ run\r\n\ \r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
